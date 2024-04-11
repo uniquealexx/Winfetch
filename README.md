@@ -1,7 +1,7 @@
 
 # Info
 - This program is only compatible with Windows 10 and 11 versions
-- Kekofetch is an open source program that displays information about your PC in the console. This project will(?) be further developed.\n
+- Kekofetch is an open source program that displays information about your PC in the console. This project will(?) be further developed.
 # How to use?
 - To use the functionality of the program, you need to download the archive from the release tab, unzip the folder on your desktop, and then open PowerShell or cmd, where you need to specify the path to the exe file. For example:
 ```
